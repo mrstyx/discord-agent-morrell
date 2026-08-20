@@ -1,0 +1,18 @@
+# Core Dependencies
+discord.py==2.3.2
+python-dotenv==1.0.0
+
+# Microsoft Agent Framework
+# Note: Update this with the actual package name/version for Microsoft Agent Framework
+# For now, using a placeholder that you can replace with the correct package
+# microsoft-agents==0.1.0  # Uncomment and update when you have the correct package
+
+# Logging and utilities
+python-dateutil==2.8.2
+requests==2.31.0
+
+# Development dependencies (optional)
+# pytest==7.4.0
+# black==23.7.0
+# flake8==6.0.0
+# mypy==1.4.1
